@@ -1,10 +1,11 @@
-# INNOVATE-AI
-Welcome to Innovate AI 🤖 the premier AI club under the ACM Student Chapter at USICT. We are a passionate community of AI enthusiasts, researchers, and developers dedicated to exploring the frontiers of artificial intelligence and machine learning. Here's what you can look forward to:
+IPL Cricket Data Analysis (2008–2024 | 814 Matches)
+Key Insights
 
-🧠 AI Research & Development:  
-🌍 Real-World Applications:  
-📈 Skill Enhancement:  
-🤝 Networking with fellow AI/ML enthusiasts:  
-💡 Innovation & Creativity in AI/ML:
-
-Whether you're new to AI/ML or an experienced practitioner, ACM Innovate AI is the perfect place to advance your skills, engage in cutting-edge projects, and contribute to the AI/ML revolution. Join us today, and let’s innovate the future with AI! 🚀🤖👩‍💻👨‍💻
+Top Teams: Mumbai Indians (67.3% win rate) and Chennai Super Kings (65.8%) showcased exceptional consistency.
+Star Players: AB de Villiers, Chris Gayle, and David Warner dominated "Player of the Match" awards, with 60% of top performers being international players.
+Chasing Advantage: Teams batting second won 52.7% of matches, especially in high-target games.
+Toss Effect: Winning the toss added only +2.8% win rate, showing team skill outweighs luck.
+Home Factor: Home teams won 54.2%—a small edge, indicating a competitive and balanced league.
+Close Matches: Average winning margin was 21 runs or 6 wickets, reflecting tight contests.
+Conclusion:
+IPL success is driven by consistency, adaptability, and quality players rather than luck (toss) or strong home advantage. Strategic chasing and international talent remain key success drivers, offering valuable insights for teams, analysts, and fans.
